@@ -1,3 +1,4 @@
+
 # OSX Specific System Files
 .DS_Store
 *.swp
@@ -9,3 +10,8 @@ ehthumbs.db
 Thumbs.db
 Desktop.ini
 $RECYCLE.BIN/
+
+# Test Files
+/phpinfo.php
+
+# Automaticly added to end of file by tools
